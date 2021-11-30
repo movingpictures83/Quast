@@ -1,0 +1,2 @@
+Prefix plugins/Quast/example/
+Plugin Quast inputfile SEQ outputfile Quast_Results
